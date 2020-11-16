@@ -9,7 +9,7 @@ namespace VoorbeeldGit
         public App()
         {
             InitializeComponent();
-            // Dit is mijn mainpage
+            // Dit is mijn mainpageadza
             MainPage = new MainPage();
         }
 
